@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ShippingEasy">
+  <DataContextMoniker Name="/ShippingEasyDataContext" />
+  <nestedChildShapes>
+    <classShape Id="7c6d58d8-402a-4a66-a8fe-c16e3da6d2a4" absoluteBounds="2.25, 1, 2, 2.9039737955729166">
+      <DataClassMoniker Name="/ShippingEasyDataContext/ShippingLabel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="29210272-2e72-4fde-a4db-c6995e1ffe16" absoluteBounds="2.2649999999999997, 1.46, 1.9700000000000002, 2.3439737955729165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
